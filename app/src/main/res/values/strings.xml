@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AndroidJuniorTestTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="city_name_info">Город:</string>
+    <string name="city_type">Тип:</string>
+    <string name="season_info_text">Сезон:</string>
+    <string name="season_temp_text">Средняя температура:</string>
+
+    <string-array name="city_season">
+        <item>Лето</item>
+        <item>Зима</item>
+        <item>Осень</item>
+        <item>Весна</item>
+
+    </string-array>
+    <string-array name="city_types">
+        <item>малый</item>
+        <item>средний</item>
+        <item>большой</item>
+    </string-array>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="fahrenheit">fahrenheit</string>
+    <string name="celsius">celsius</string>
+    <string name="kelvin">kelvin</string>
+    <string name="edit">edit</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+    <string name="add_new_city">Add new city</string>
+    <string name="ok">ok</string>
+
+</resources>

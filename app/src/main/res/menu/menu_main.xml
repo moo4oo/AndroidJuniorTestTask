@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dima.androidjuniortesttask.MainActivity">
+    <item
+        android:id="@+id/add_new_city_item"
+        android:orderInCategory="100"
+        android:title="@string/add_new_city"
+        app:showAsAction="never" />
+</menu>
